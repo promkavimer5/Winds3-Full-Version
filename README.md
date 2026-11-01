@@ -234,4 +234,4 @@ This repository serves as the official landing page for WinDS3. The software is 
 **Get the most recent version of WinDS3 today!**
 
 ---
-**Last updated:** 2026-10-31 23:11:38 UTC
+**Last updated:** 2026-11-01 05:13:41 UTC
